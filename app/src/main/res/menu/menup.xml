@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Insertar" android:title="Insertar"/>
+    <item android:id="@+id/Consultar" android:title="Consultar"/>
+    <item android:id="@+id/Actualizar" android:title="Actualizar"/>
+    <item android:id="@+id/Eliminar" android:title="Eliminar"/>
+    <item android:id="@+id/Seguros" android:title="Ir a Seguros"/>
+</menu>
